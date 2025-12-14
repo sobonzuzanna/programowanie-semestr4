@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Foldery środowiskowe
+.venv/
+env/
+*.env
+
+# Cache pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# systemowe
+.DS_Store
+Thumbs.db
