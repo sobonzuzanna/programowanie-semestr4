@@ -1,3 +1,10 @@
+**PROGRAMOWANIE ZAAWANSOWANE LAB 05**
+
+Autor: Zuzanna Soboń  
+Nr albumu: 191671  
+Link do gita: https://github.com/sobonzuzanna/programowanie-semestr4/tree/main/lab05
+
+
 **WYBRANA DZIEDZINA**
 Web Scraping - proces automatycznego pozyskiwania danych ze stron internetowych.
 
